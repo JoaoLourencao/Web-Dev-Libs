@@ -41,6 +41,7 @@ Repositório com bibliotecas e ferramentas utilizadas durante o desenvolvimento 
 - jQuery - https://api.jquery.com/
 - Bootstrap - https://getbootstrap.com/docs/4.4/getting-started/introduction/  
 - SiteMaps - https://www.xml-sitemaps.com/
+- reCaptcha - https://developers.google.com/recaptcha/docs/versions
 
 ### Sites com componentes para interface do usuário (Linear-gradient/box-shadow/ícones) (User interface components)
 - Ícones - https://www.flaticon.com/
