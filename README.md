@@ -1,4 +1,4 @@
-# Web-Dev-Libs
+# Web-Dev-Libs (Front-End)
 Repositório com bibliotecas e ferramentas utilizadas durante o desenvolvimento WEB.
 
 
