@@ -1,13 +1,11 @@
 # Web-Dev-Libs
-Este é um repositório com bibliotecas e ferramentas utilizadas durante o desenvolvimento WEB.
+Repositório com bibliotecas e ferramentas utilizadas durante o desenvolvimento WEB.
 
 
-### Slider Vertical (Vertical Slider)
-- Page Slider JS https://github.com/kevinoes/page-slider-js/
-
-### Slider Horizontal (Horizontal Slider)
-- Slick Carousel - https://github.com/kenwheeler/slick/
-- Slick Carousel - http://kenwheeler.github.io/slick/
+### Sliders
+- Page Slider JS (Vertical) - https://github.com/kevinoes/page-slider-js/
+- Slick Carousel (Horizontal) - https://github.com/kenwheeler/slick/
+- Slick Carousel (Horizontal) - http://kenwheeler.github.io/slick/
   
 ### Efeitos animados (Animated effects)
 - Animate Style - https://animate.style/
@@ -39,7 +37,7 @@ Este é um repositório com bibliotecas e ferramentas utilizadas durante o desen
 - CodePen - https://codepen.io/
 - NPMJS - https://www.npmjs.com/
 
-### Frameworks mais utilizados (Best framewors)
+### Frameworks mais utilizados (Best frameworks)
 - jQuery - https://api.jquery.com/
 - Bootstrap - https://getbootstrap.com/docs/4.4/getting-started/introduction/  
 
