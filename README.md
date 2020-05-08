@@ -3,16 +3,16 @@ Este é um repositório com bibliotecas e ferramentas utilizadas durante o desen
 
 
 ### Slider Vertical (Vertical Slider)
-- https://github.com/kevinoes/page-slider-js/
+- Page Slider JS https://github.com/kevinoes/page-slider-js/
 
 ### Slider Horizontal (Horizontal Slider)
-- https://github.com/kenwheeler/slick/
-- http://kenwheeler.github.io/slick/
+- Slick Carousel - https://github.com/kenwheeler/slick/
+- Slick Carousel - http://kenwheeler.github.io/slick/
   
 ### Efeitos animados (Animated effects)
-- https://animate.style/
-- https://daneden.github.io/animate.css/
-- https://michalsnik.github.io/aos/  
+- Animate Style - https://animate.style/
+- Animate CSS - https://daneden.github.io/animate.css/
+- Animate on scroll lib (Data Aos) - https://michalsnik.github.io/aos/  
 
 ### Carrossel (Carousel)
 - Owl Carousel - https://owlcarousel2.github.io/OwlCarousel2/
@@ -21,7 +21,7 @@ Este é um repositório com bibliotecas e ferramentas utilizadas durante o desen
 - Mobile Detect - https://www.npmjs.com/package/mobile-detect
 
 ### Efeito Typing (digitação) (Typing effect)
-- https://github.com/mattboldt/typed.js/
+- Typed.js - https://github.com/mattboldt/typed.js/
 
 ### Alertas de ação (Action Alerts)
 - SweetAlert - https://sweetalert.js.org/guides/
@@ -48,7 +48,8 @@ Este é um repositório com bibliotecas e ferramentas utilizadas durante o desen
 - Ícones - https://material.io/resources/icons/?icon=3d_rotation&style=baseline
 - Linear Gradient - https://cssgradient.io/
 - Box-Shadow - https://www.cssmatic.com/box-shadow
+- WhatsApp API - http://api.whatsapp.com/send?1=pt_BR&phone=5541999999999
 
 ### Extensões Google Chrome (Chrome extensions)
 - Color Picker - https://chrome.google.com/webstore/detail/colorpick-eyedropper/ohcpnigalekghcmgcdcenkpelffpdolg
-- Performance Analyse - https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk
+- Performance Analyse(Lighthouse) - https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk
