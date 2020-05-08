@@ -29,6 +29,10 @@ Este é um repositório com bibliotecas e ferramentas utilizadas durante o desen
 ### FORMs
 - Multiselect Form - https://developer.snapappointments.com/bootstrap-select/examples/
 - Validador de Forms - https://github.com/jquery-validation/jquery-validation
+- MultiSteps Form - https://www.w3schools.com/howto/howto_js_form_steps.asp
+- DatePicker Input - https://bootstrap-datepicker.readthedocs.io/en/latest/
+- Máscara de Input - https://github.com/digitalBush/jquery.maskedinput
+- Máscara de dinheiro no input - https://plentz.github.io/jquery-maskmoney/
 
 ### Repositórios de códigos (Code Repos)
 - GitHub - https://github.com/
