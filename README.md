@@ -1,5 +1,5 @@
 # Web-Dev-Libs
-Este é um repositório para armazenar bibliotecas e ferramentas que utilizei e utilizo durante o desenvolvimento WEB.
+Este é um repositório com bibliotecas e ferramentas utilizadas durante o desenvolvimento WEB.
 
 
 ### Slider Vertical
@@ -37,3 +37,9 @@ Este é um repositório para armazenar bibliotecas e ferramentas que utilizei e 
 ### Frameworks mais utilizados
 - https://api.jquery.com/
 - https://getbootstrap.com/docs/4.4/getting-started/introduction/  
+
+### Sites com componentes para interface do usuário (Linear-gradient/box-shadow/ícones)
+- https://www.flaticon.com/
+- https://material.io/resources/icons/?icon=3d_rotation&style=baseline
+- https://cssgradient.io/
+- https://www.cssmatic.com/box-shadow
