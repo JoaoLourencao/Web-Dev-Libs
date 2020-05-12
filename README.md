@@ -50,6 +50,11 @@ Repositório com bibliotecas e ferramentas utilizadas durante o desenvolvimento 
 - Box-Shadow - https://www.cssmatic.com/box-shadow
 - WhatsApp API - http://api.whatsapp.com/send?1=pt_BR&phone=5541999999999
 - Gifs and ideias - https://dribbble.com/
+- UI ideias - https://www.pages.xyz/
+- UI Ideias - https://www.awwwards.com/
+- Illustrations - https://undraw.co/illustrations
+- Free Usable Images - https://unsplash.com/
+- Icons and tools - https://icons8.com.br/
 
 ### Extensões Google Chrome (Chrome extensions)
 - Color Picker - https://chrome.google.com/webstore/detail/colorpick-eyedropper/ohcpnigalekghcmgcdcenkpelffpdolg
