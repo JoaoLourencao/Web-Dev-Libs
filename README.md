@@ -49,6 +49,7 @@ Repositório com bibliotecas e ferramentas utilizadas durante o desenvolvimento 
 - Linear Gradient - https://cssgradient.io/
 - Box-Shadow - https://www.cssmatic.com/box-shadow
 - WhatsApp API - http://api.whatsapp.com/send?1=pt_BR&phone=5541999999999
+- Gifs and ideias - https://dribbble.com/
 
 ### Extensões Google Chrome (Chrome extensions)
 - Color Picker - https://chrome.google.com/webstore/detail/colorpick-eyedropper/ohcpnigalekghcmgcdcenkpelffpdolg
