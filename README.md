@@ -39,6 +39,7 @@ Repositório com bibliotecas e ferramentas utilizadas durante o desenvolvimento 
 
 ### Frameworks mais utilizados (Best frameworks)
 - jQuery - https://api.jquery.com/
+- jQuery Faciliter - http://youmightnotneedjquery.com/
 - Bootstrap - https://getbootstrap.com/docs/4.4/getting-started/introduction/  
 - SiteMaps - https://www.xml-sitemaps.com/
 - reCaptcha - https://developers.google.com/recaptcha/docs/versions
