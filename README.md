@@ -45,17 +45,13 @@ Repositório com bibliotecas e ferramentas utilizadas durante o desenvolvimento 
 - reCaptcha - https://developers.google.com/recaptcha/docs/versions
 
 ### User interface components (UI Components)
-- Ícones - https://www.flaticon.com/
-- Ícones - https://material.io/resources/icons/?icon=3d_rotation&style=baseline
+- Ícones - https://www.flaticon.com/ ----- https://material.io/resources/icons/?icon=3d_rotation&style=baseline ----- https://icons8.com.br/
 - Linear Gradient - https://cssgradient.io/
 - Box-Shadow - https://www.cssmatic.com/box-shadow
 - WhatsApp API - http://api.whatsapp.com/send?1=pt_BR&phone=5541999999999
-- Gifs and ideias - https://dribbble.com/
-- UI ideias - https://www.pages.xyz/
-- UI Ideias - https://www.awwwards.com/
+- UI ideias - https://www.pages.xyz/ ----- https://www.awwwards.com/ ----- https://dribbble.com/
 - Illustrations - https://undraw.co/illustrations
 - Free Usable Images - https://unsplash.com/
-- Icons and tools - https://icons8.com.br/
 - Fonts - https://fonts.google.com/ ----- https://www.typewolf.com/ ----- https://fonts.adobe.com/
 
 ### Extensões Google Chrome (Chrome extensions)
