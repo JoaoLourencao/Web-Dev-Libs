@@ -71,6 +71,6 @@ Repositório com bibliotecas e ferramentas utilizadas durante o desenvolvimento 
 
 
 # Algumas Imagens para auxílio
-
+- Melhores fontes para serem utilizadas em determinados locais
 
 ![image](https://user-images.githubusercontent.com/43622814/81882634-9c068880-9569-11ea-9990-83fb97387965.png)
