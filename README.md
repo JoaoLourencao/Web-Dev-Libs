@@ -67,3 +67,10 @@ Repositório com bibliotecas e ferramentas utilizadas durante o desenvolvimento 
 
 ### Canais do youtube (videos)
 - Fireship - https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA
+
+
+
+# Algumas Imagens para auxílio
+
+
+![image](https://user-images.githubusercontent.com/43622814/81882634-9c068880-9569-11ea-9990-83fb97387965.png)
