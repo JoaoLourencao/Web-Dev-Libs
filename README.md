@@ -44,7 +44,7 @@ Repositório com bibliotecas e ferramentas utilizadas durante o desenvolvimento 
 - SiteMaps - https://www.xml-sitemaps.com/
 - reCaptcha - https://developers.google.com/recaptcha/docs/versions
 
-### Sites com componentes para interface do usuário (Linear-gradient/box-shadow/ícones) (User interface components)
+### User interface components (UI Components)
 - Ícones - https://www.flaticon.com/
 - Ícones - https://material.io/resources/icons/?icon=3d_rotation&style=baseline
 - Linear Gradient - https://cssgradient.io/
@@ -56,6 +56,7 @@ Repositório com bibliotecas e ferramentas utilizadas durante o desenvolvimento 
 - Illustrations - https://undraw.co/illustrations
 - Free Usable Images - https://unsplash.com/
 - Icons and tools - https://icons8.com.br/
+- Fonts - https://fonts.google.com/ ----- https://www.typewolf.com/ ----- https://fonts.adobe.com/
 
 ### Extensões Google Chrome (Chrome extensions)
 - Color Picker - https://chrome.google.com/webstore/detail/colorpick-eyedropper/ohcpnigalekghcmgcdcenkpelffpdolg
