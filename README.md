@@ -1,6 +1,8 @@
 # Web-Dev-Libs (Front-End)
 Repositório com bibliotecas e ferramentas utilizadas durante o desenvolvimento WEB.
 
+### Gráficos com integração
+- Highcharts - https://www.highcharts.com/
 
 ### Sliders
 - Page Slider JS (Vertical) - https://github.com/kevinoes/page-slider-js/
