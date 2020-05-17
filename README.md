@@ -62,10 +62,11 @@ Repositório com bibliotecas e ferramentas utilizadas durante o desenvolvimento 
 - Performance Analyse(Lighthouse) - https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk
 
 ### Ferramentas para code e outras
-- LightShot (print da tela) - https://app.prntscr.com/pt-br/download.html 
+- LightShot (print da tela) - https://app.prntscr.com/pt-br/download.html
+- ApeTools(SplashScreenImages) - https://apetools.webprofusion.com/#/tools/imagegorilla
 
 ### Canais do youtube (videos)
-- Fireship - https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA
+- Fireship - https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA  
 
 
 
