@@ -64,6 +64,7 @@ Repositório com bibliotecas e ferramentas utilizadas durante o desenvolvimento 
 ### Ferramentas para code e outras
 - LightShot (print da tela) - https://app.prntscr.com/pt-br/download.html
 - ApeTools(SplashScreenImages) - https://apetools.webprofusion.com/#/tools/imagegorilla
+- Busca de CEP (autocomplete) - https://codepen.io/EuclidesMarques/pen/vmJdNm
 
 ### Canais do youtube (videos)
 - Fireship - https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA  
