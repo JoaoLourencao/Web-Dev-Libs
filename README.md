@@ -10,7 +10,6 @@ Repositório com bibliotecas e ferramentas utilizadas durante o desenvolvimento 
 - Slick Carousel (Horizontal) - http://kenwheeler.github.io/slick/
   
 ### Efeitos animados (Animated effects)
-- Animate Style - https://animate.style/
 - Animate CSS - https://daneden.github.io/animate.css/
 - Animate on scroll lib (Data Aos) - https://michalsnik.github.io/aos/  
 
