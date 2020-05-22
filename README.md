@@ -65,7 +65,7 @@ Repositório com bibliotecas e ferramentas utilizadas durante o desenvolvimento 
 
 ### Canais do youtube (videos)
 - Fireship - https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA  
-- Rockeatseat - https://www.youtube.com/channel/UCSfwM5u0Kce6Cce8_S72olg
+- Rocketseat - https://www.youtube.com/channel/UCSfwM5u0Kce6Cce8_S72olg
 
 ### ideias para App
 - App-ideas - https://github.com/florinpop17/app-ideas
