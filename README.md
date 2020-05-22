@@ -4,17 +4,15 @@ Repositório com bibliotecas e ferramentas utilizadas durante o desenvolvimento 
 ### Gráficos com integração
 - Highcharts - https://www.highcharts.com/
 
-### Sliders
+### Sliders / Carrousel
 - Page Slider JS (Vertical) - https://github.com/kevinoes/page-slider-js/
 - Slick Carousel (Horizontal) - https://github.com/kenwheeler/slick/
 - Slick Carousel (Horizontal) - http://kenwheeler.github.io/slick/
+- Owl Carousel - https://owlcarousel2.github.io/OwlCarousel2/
   
 ### Efeitos animados (Animated effects)
 - Animate CSS - https://daneden.github.io/animate.css/
 - Animate on scroll lib (Data Aos) - https://michalsnik.github.io/aos/  
-
-### Carrossel (Carousel)
-- Owl Carousel - https://owlcarousel2.github.io/OwlCarousel2/
 
 ### Detector de dispositivos (celular/tablet/desktop)(Mobile Detect)
 - Mobile Detect - https://www.npmjs.com/package/mobile-detect
