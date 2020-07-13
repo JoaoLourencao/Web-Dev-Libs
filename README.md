@@ -30,6 +30,8 @@ Repositório com bibliotecas e ferramentas utilizadas durante o desenvolvimento 
 - DatePicker Input - https://bootstrap-datepicker.readthedocs.io/en/latest/
 - Máscara de Input - https://github.com/digitalBush/jquery.maskedinput
 - Máscara de dinheiro no input - https://plentz.github.io/jquery-maskmoney/
+- Validador de CPF - https://www.geradorcpf.com/javascript-validar-cpf.htm
+- Validador de CEP com jQuery - https://viacep.com.br/exemplo/jquery/
 
 ### Repositórios de códigos (Code Repos)
 - GitHub - https://github.com/
