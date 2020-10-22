@@ -1,6 +1,10 @@
 # Web-Dev-Libs (Front-End)
 Repositório com bibliotecas e ferramentas utilizadas durante o desenvolvimento WEB.
 
+### React Native Cheats
+RN Elements - https://github.com/react-native-elements/react-native-elements
+NativeBase - https://github.com/GeekyAnts/NativeBase
+
 ### Gráficos com integração
 - Highcharts - https://www.highcharts.com/
 
