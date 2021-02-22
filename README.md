@@ -52,6 +52,7 @@ Repositório com bibliotecas e ferramentas utilizadas durante o desenvolvimento 
 
 ### User interface components (UI Components)
 - Figma (ferramenta de prototipação) - https://www.figma.com/
+- Whimsical (ferramenta de prototipação) - https://whimsical.com/
 - Ícones - https://www.flaticon.com/ ----- https://material.io/resources/icons/?icon=3d_rotation&style=baseline ----- https://icons8.com.br/
 - Linear Gradient - https://cssgradient.io/
 - Box-Shadow - https://www.cssmatic.com/box-shadow
